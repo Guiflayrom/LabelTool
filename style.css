@@ -1,0 +1,53 @@
+body{
+    margin-left: 30px;
+}
+
+.title {
+    padding-top: 0.2%;
+}
+.subject{
+    font-size: 30px;
+    letter-spacing: 0.3em
+}
+
+hr{
+    position: absolute;
+    width:530px;
+}
+
+.uploadArea {
+    overflow: auto;
+    width: 850px;
+    height: 450px;
+    filter:alpha(opacity=5);
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #a0a0a06d;
+    margin-left: 17.5%;
+
+}
+
+.image-preview{
+    width: none;
+    /* min-height: 100px; */
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    display: none;    
+}
+
+#uploadText{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+    font-size: 50px;
+    color: #a0a0a06d;
+}
+
+#submit {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>LabelTool - Label Image</title>
+</head>
+<body>
+  <div>
+    <div id="container">
+      <div class="imgCanvas">
+        <canvas id="screen"></canvas>
+      </div>
+      <nav>
+        <ul id="listLabel">
+        </ul>
+      </nav>
+    </div>
+    <div id="containerButtons">
+      <div id="buttons">
+        <button onclick=Line()><img src="img/create.png" alt="create" class="create"></button>
+        <button onclick=Edit()><img src="img/edit.png" alt="edit" class="edit"></button>
+        <button onclick=Undo()><img src="img/undo.png" alt="undo" class="undo"></button>
+        <button onclick=Trash()><img src="img/remove.png" alt="remove" class="remove"></button>
+        <button onclick=Save()><img src="img/save.png" alt="save" class="save"> </button>
+      </div> 
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
