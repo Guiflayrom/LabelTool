@@ -2,7 +2,7 @@
 <p class="has-line-data" data-line-start="1" data-line-end="2" align="center"><img src="https://imgur.com/x0OlwVU.png" alt=""></p>
 <h4 class="code-line" data-line-start=2 data-line-end=3 align="center"><a id="Image_Polygonal_Annotation_with_Javascript_2"></a>Image Polygonal Annotation with Javascript</h4>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Description_4"></a>Description</h2>
-<p class="has-line-data" data-line-start="5" data-line-end="6">LabelTool is a simple graphic annotation tool inspired by <a href="https://github.com/wkentaro/labelme">LabelMe from Kentaro Wada</a>. It was made with pure Javascript for the purpose of logical challenge.</p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">LabelTool is a simple graphic annotation tool inspired by <a href="https://github.com/wkentaro/labelme">LabelMe of Kentaro Wada</a>. It was made with pure Javascript for the purpose of logical challenge.</p>
 <h3 class="code-line" data-line-start=7 data-line-end=8 ><a id="_Upload_Images__7"></a><em>Upload Images</em></h3>
 <h4 class="code-line" data-line-start=8 data-line-end=9 ><a id="You_can_upload_images_up_to_20_MB_with_a_preview_of_it_8"></a>You can upload images up to 20 MB, with a preview of it.</h4>
 <p class="has-line-data" data-line-start="9" data-line-end="10"><img src="https://s3.gifyu.com/images/01334ea89520b76115.gif" alt="Upload Images"></p>
