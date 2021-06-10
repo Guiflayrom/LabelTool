@@ -33,7 +33,7 @@
 If you use this project in your research or wish to refer to the baseline results published in the README, please use the following BibTeX entry.
 
 ```bash
-@misc{labelme2016,
+@misc{LabelTool2021,
   author =       {Guilherme D. Alves},
   title =        {{labelme: Image Polygonal Annotation with Javascript}},
   howpublished = {\url{https://github.com/Guiflayrom/LabelTool}},
